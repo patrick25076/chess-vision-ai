@@ -88,7 +88,7 @@ While the techniques employed are powerful, challenges may arise:
 
 In summary, the **3D Chess Vision AI** project leverages a combination of image preprocessing, edge detection, and contour analysis techniques to robustly detect the chessboard within images. This precise detection sets the stage for accurate piece recognition and the digital transformation of physical chess games.
 
-![Board Detection](board_detection_image_url_here.png)
+![Board](https://github.com/patrick25076/chess-vision-ai/assets/113384811/f835ea36-50f2-4af0-afe3-6aff5c39ffe4)
 
 ## Piece Recognition
 
@@ -102,7 +102,8 @@ Please note that while the model's performance is impressive, the accuracy of th
 
 In summary, the **3D Chess Vision AI** project leverages state-of-the-art machine learning models to achieve accurate chess piece recognition, contributing to the seamless transformation of physical chess games into digital experiences.
 
-![Board Detection](board_detection_image_url_here.png)
+![Piece_Recognition](https://github.com/patrick25076/chess-vision-ai/assets/113384811/c9af7daf-1c12-4c36-8c81-0a74541ec8fa)
+
 
 ## Final Results
 The primary objective of the **3D Chess Vision AI** project is personal learning and skill improvement in the fields of computer vision and machine learning. While the project offers a compelling solution for transforming physical chessboards into digital ones, it's essential to set realistic expectations regarding its performance.
@@ -130,8 +131,7 @@ It's important to acknowledge the project's limitations:
 
 In summary, the **3D Chess Vision AI** project offers an exciting journey of personal growth and learning. It provides insights into the intricacies of computer vision and machine learning while serving as a bridge between the physical and digital chess worlds. Keep in mind that the project's performance is influenced by various factors, and achieving perfection in every scenario may not be attainable. Nevertheless, it remains a valuable tool for chess enthusiasts looking to enhance their chess-playing experiences.
 
-
-![Final Results](final_results_image_url_here.png)
+![Final](https://github.com/patrick25076/chess-vision-ai/assets/113384811/905e9a14-7ad4-4e3d-bb43-9c2ceaa82921)
 
 ## Project Status
 
