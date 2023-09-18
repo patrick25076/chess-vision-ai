@@ -1,0 +1,10 @@
+cairocffi==1.6.1
+CairoSVG==2.7.1
+chess==1.10.0
+matplotlib==3.8.0
+numpy 
+opencv-python==4.8.0.76
+pandas 
+python-dotenv==1.0.0
+roboflow==1.1.6
+stockfish==3.28.0
